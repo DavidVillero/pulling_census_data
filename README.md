@@ -1,1 +1,1 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DavidVillero/pulling_census_data/blob/main/Census_Scrape.ipynb/HEAD?urlpath=https%3A%2F%2Fgithub.com%2FDavidVillero%2Fpulling_census_data%2Fblob%2Fmain%2FCensus_Scrape.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DavidVillero/pulling_census_data/HEAD)
